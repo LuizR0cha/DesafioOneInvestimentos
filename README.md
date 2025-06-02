@@ -1,4 +1,4 @@
-O programa consiste simular uma carteira de ativos de investimentos para três clientes conforme a tabela de cotações mostrada no resultado.
+O programa consiste em simular uma carteira de ativos de investimentos para três clientes conforme a tabela de cotações mostrada no resultado.
 
 Caso a tabela de cotações seja modificada, o resultado dado como resposta dos valores aportados e do valor atual conforme cada ativo, bem como a rentabilidade também serão alterados.
 
